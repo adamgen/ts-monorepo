@@ -1,7 +1,7 @@
 {
   "name": "@vista-point/backend",
   "licenses": "UNLICENSED",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "author": "",
   "license": "MIT",
@@ -22,7 +22,7 @@
     "@nestjs/common": "^6.7.2",
     "@nestjs/core": "^6.7.2",
     "@nestjs/platform-express": "^6.7.2",
-    "@vista-point/common": "^0.0.4",
+    "@vista-point/common": "^0.0.5",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.0",
     "rxjs": "^6.5.3"
