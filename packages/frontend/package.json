@@ -43,5 +43,6 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "gitHead": "aa093b1debf463eb766500eb761f405a435039f1"
 }
