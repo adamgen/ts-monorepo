@@ -45,5 +45,8 @@
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "gitHead": "ee017464c1b06146d948149db31dd2ae602216f2"
 }
