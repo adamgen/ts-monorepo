@@ -1,7 +1,7 @@
 {
   "name": "@vista-point/frontend",
   "licenses": "UNLICENSED",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --proxy-config proxy.conf.js --open",
@@ -19,7 +19,7 @@
     "@angular/platform-browser": "~8.2.14",
     "@angular/platform-browser-dynamic": "~8.2.14",
     "@angular/router": "~8.2.14",
-    "@vista-point/common": "^0.0.3",
+    "@vista-point/common": "^0.0.4",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
