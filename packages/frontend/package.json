@@ -1,5 +1,6 @@
 {
   "name": "@vista-point/frontend",
+  "licenses": "UNLICENSED",
   "version": "0.0.2",
   "scripts": {
     "ng": "ng",
